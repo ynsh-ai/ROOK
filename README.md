@@ -568,9 +568,6 @@ ROOK's success is evaluated on demonstrable evidence across 9 core criteria:
 **Competition**: Tata Elxsi TELIPORT Season 4 · Track 03  
 **Case Study 03**: *Adaptive QoS Engine for Mixed Home Broadband Traffic*
 
-- **Yanshi Chauhan** ([@ynsh-ai](https://github.com/ynsh-ai)) — Project Lead & Systems Architecture
-- **Ayush Kumar Sharma** — Network Systems & Telemetry Engineering
-
 ---
 
 ## 19. References and Further Reading
