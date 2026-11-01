@@ -12,6 +12,7 @@
 [![Enforcement: Linux tc](https://img.shields.io/badge/Enforcement-Linux%20tc%20%2F%20HTB%20%2B%20CAKE-1E293B?style=flat-square)](https://man7.org/linux/man-pages/man8/tc.8.html)
 [![Privacy: Zero--DPI](https://img.shields.io/badge/Privacy-Zero--DPI%20%2F%20Non--Payload-0B192C?style=flat-square)](#privacy-reliability-and-safety)
 [![License: MIT](https://img.shields.io/badge/License-MIT-gray?style=flat-square)](LICENSE)
+[![Requirements Traceability](https://img.shields.io/badge/Requirements-Traceability%20Matrix-00ADB5?style=flat-square)](docs/requirements-traceability.md)
 
 ---
 
@@ -356,6 +357,8 @@ ROOK/
 ├── LICENSE                       # MIT License
 ├── requirements.txt              # Core runtime dependencies
 ├── README.md                     # Technical product documentation
+├── docs/
+│   └── requirements-traceability.md # Official Case Study 03 requirements mapping
 ├── configs/
 │   ├── qos_profiles.json         # Class hierarchy and rate definitions
 │   └── testbed_config.json       # Namespace emulation topology settings
@@ -492,7 +495,7 @@ sudo bash scripts/teardown_testbed.sh
 
 ## 18. Current Project Status
 
-- **Architecture, Specification & Documentation**: **Completed**. Complete architectural decomposition, mathematical formulations, and interface specifications finalized.
+- **Architecture, Specification & Documentation**: **Completed**. Complete architectural decomposition, mathematical formulations, interface specifications, and official [Requirements Traceability Matrix](docs/requirements-traceability.md) finalized.
 - **Data Plane & Testbed Implementation**: **In Active Development**. Linux `tc` orchestration modules, netlink wrappers, and automated network namespace testbed scripts are currently being implemented and verified.
 - **Adaptive Estimation & Intent Engine**: **In Active Development**. Passive delay-gradient tracking algorithms and FastAPI intent endpoints are undergoing unit and integration testing.
 - **Machine Learning Evaluation & Hardening**: **Planned**. Comparative evaluation of statistical ML classifiers against the deterministic heuristic baseline scheduled under Phase 4.
