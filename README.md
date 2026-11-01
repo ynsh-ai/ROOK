@@ -5,7 +5,7 @@
 
 ---
 
-[![Product: RROK](https://img.shields.io/badge/Product-RROK-00ADB5?style=flat-square&logo=shield)](https://github.com/ynsh-ai/QoS)
+[![Product: RROK](https://img.shields.io/badge/Product-RROK-00ADB5?style=flat-square&logo=shield)](https://github.com/ynsh-ai/ROOK)
 [![Team: LATENTS](https://img.shields.io/badge/Team-LATENTS-0B192C?style=flat-square)](https://github.com/ynsh-ai)
 [![Competition: TELIPORT S4](https://img.shields.io/badge/Tata%20Elxsi-TELIPORT%20Season%204-1E3E62?style=flat-square)](https://www.tataelxsi.com)
 [![Track: 03](https://img.shields.io/badge/Track-03%20Adaptive%20QoS-0284C7?style=flat-square)](#problem-statement)
@@ -352,7 +352,7 @@ RROK performance is evaluated across six rigorous quantitative criteria:
 ## 12. Repository Structure
 
 ```
-QoS/
+ROOK/
 ├── LICENSE                       # MIT License
 ├── requirements.txt              # Core runtime dependencies
 ├── README.md                     # Technical product documentation
@@ -401,8 +401,8 @@ QoS/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/ynsh-ai/QoS.git
-cd QoS
+git clone https://github.com/ynsh-ai/ROOK.git
+cd ROOK
 
 # 2. Install runtime dependencies
 pip3 install -r requirements.txt
