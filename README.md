@@ -2,7 +2,6 @@
 
 # ROOK
 
-### Your Network's Silent Guardian
 **An intent-aware, feedback-driven Adaptive Quality of Service (QoS) engine for mixed home broadband traffic.**
 
 [![Product: ROOK](https://img.shields.io/badge/Product-ROOK-00ADB5?style=flat-square&logo=shield)](https://github.com/ynsh-ai/ROOK)
