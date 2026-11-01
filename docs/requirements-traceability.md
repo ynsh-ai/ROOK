@@ -415,4 +415,10 @@ An Intent-Aware, Feedback-Driven Adaptive QoS Engine
 
 **Built by Team LATENTS**  
 Tata Elxsi TELIPORT Season 4 — Track 03  
-*Case Study 03: Adaptive QoS Engine for Mixed Home Broadband Traffic*
+*Case Study 03: Adaptive QoS Engine for Mixed Home Broadband Traffic*  
+
+**Team Members:**  
+- **Yanshi Chauhan** ([@ynsh-ai](https://github.com/ynsh-ai))  
+- **Ayush Kumar Sharma**  
+
+
